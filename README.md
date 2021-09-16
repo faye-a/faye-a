@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faye!</h1>
-<h3 align="center">A computer scientist masters conversion student in Ireland</h3>
+<h3 align="center">I'm a computer science student in Ireland.</h3>
 
 - 🔭 I’m currently working on **web application**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Julia**
 
 - 👨‍💻 All of my projects are available at [https://github.com/faye-a](https://github.com/faye-a)
 
