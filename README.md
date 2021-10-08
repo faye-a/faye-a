@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **web application**
 
-- 🌱 I’m currently learning **Julia**
+- 🌱 I’m currently learning **R**
 
 - 👨‍💻 All of my projects are available at [https://github.com/faye-a](https://github.com/faye-a)
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **faye.arejola98@gmail.com**
+- 📫 How to reach me **faye.arejola@ucdconnect.ie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
