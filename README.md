@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Faye!</h1>
-<h3 align="center">I'm a computer science student in Ireland.</h3>
 
 - 🔭 I’m currently working on **web application**
 
